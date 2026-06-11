@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from php.kodesolution.com/2026/landspire-php/404.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jun 2026 09:25:05 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8">
+<title>Landspire - Gardening and Landscaping PHP Template</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="page-wrapper">
+
+    <!-- Preloader Start -->
+      <div class="preloader"></div>
+
+       <!-- Back To Top Start -->
+        <button id="back-top" class="back-to-top">
+            <i class="fa-regular fa-arrow-up"></i>
+        </button>
+
+        <!-- MouseCursor Start -->
+        <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner"></div>
+
+
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+
+        <!-- 404 Section -->
+        <section class="">
+          <div class="auto-container pt-120 pb-70">
+            <div class="row">
+              <div class="col-xl-12">
+                <div class="error-page__inner">
+                  <div class="error-page__title-box">
+                    <img src="images/resource/404.jpg" alt="">
+                    <h3 class="error-page__sub-title">Page not found!</h3>
+                  </div>
+                  <p class="error-page__text">Sorry we can't find that page! The page you are looking <br /> for
+                    was never existed.</p>
+                  <form class="error-page__form">
+                    <div class="error-page__form-input">
+                      <input type="search" placeholder="Search here">
+                      <button type="submit"><i class="lnr lnr-icon-magnifier"></i></button>
+                    </div>
+                  </form>
+                  <a href="index.php" class="theme-btn btn-style-one shop-now"><span class="btn-title">Back to Home</span></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--End 404 Section -->
+
+    </div>
+    </div>  
+
+   </div>
+
+  <!-- End Page Wrapper -->
+<div class="page-wrapper">
+
+    <!-- Preloader Start -->
+      <div class="preloader"></div>
+
+       <!-- Back To Top Start -->
+        <button id="back-top" class="back-to-top">
+            <i class="fa-regular fa-arrow-up"></i>
+        </button>
+
+        <!-- MouseCursor Start -->
+        <div class="mouseCursor cursor-outer"></div>
+        <div class="mouseCursor cursor-inner"></div>
+
+
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+
+        <!-- 404 Section -->
+        <section class="">
+          <div class="auto-container pt-120 pb-70">
+            <div class="row">
+              <div class="col-xl-12">
+                <div class="error-page__inner">
+                  <div class="error-page__title-box">
+                    <img src="images/resource/404.jpg" alt="">
+                    <h3 class="error-page__sub-title">Page not found!</h3>
+                  </div>
+                  <p class="error-page__text">Sorry we can't find that page! The page you are looking <br /> for
+                    was never existed.</p>
+                  <form class="error-page__form">
+                    <div class="error-page__form-input">
+                      <input type="search" placeholder="Search here">
+                      <button type="submit"><i class="lnr lnr-icon-magnifier"></i></button>
+                    </div>
+                  </form>
+                  <a href="index.php" class="theme-btn btn-style-one shop-now"><span class="btn-title">Back to Home</span></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--End 404 Section -->
+
+    </div>
+    </div>  
+
+   </div>
+
+  <!-- End Page Wrapper -->
+
+
+    </div>
+    </div>  
+
+   </div>
+
+  <!-- End Page Wrapper -->
+
+<script src="js/jquery.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/gsap.js"></script>
+<script src="js/three.js"></script>
+<script src="js/hover-effect.umd.js"></script>
+<script src="js/gsap-scroll-to-plugin.js"></script>
+<script src="js/gsap-scroll-smoother.js"></script>
+<script src="js/gsap-scroll-trigger.js"></script>
+<script src="js/gsap-split-text.js"></script>
+<script src="js/split-type.min.js"></script>
+<script src="js/parallaxie.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/bxslider.js"></script>
+<script src="js/nice-select.min.js"></script>
+<script src="js/knob.js"></script>
+<script src="js/appear.js"></script>
+<script src="js/slick.js"></script>
+<script src="js/swiper.min.js"></script>
+<script src="js/mixitup.js"></script>
+<script src="js/script.js"></script>
+<script src="js/script-gsap.js"></script>
+</body>
+
+<!-- Mirrored from php.kodesolution.com/2026/landspire-php/404.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jun 2026 09:25:05 GMT -->
+</html>
+

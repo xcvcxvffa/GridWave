@@ -1,0 +1,149 @@
+<?php include 'include/header.php'; ?>
+
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+<!-- Start main-content -->
+<section class="page-title" style="background-image: url(images/background/page-title.jpg);">
+  <div class="auto-container">
+    <div class="title-outer text-center">
+      <h1 class="title">Utility Scale Wind</h1>
+      <ul class="page-breadcrumb">
+        <li><a href="index.php">Home</a></li>
+        <li><a href="services.php">Services</a></li>
+        <li>Utility Scale Wind</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<!-- end main-content -->
+<!--Start Services Details-->
+        <section class="services-details pt-120 pb-120">
+          <div class="container">
+            <div class="row">
+              <!--Start Services Details Sidebar-->
+              <div class="col-xl-4 col-lg-4">
+                <div class="service-sidebar">
+                  <!--Start Services Details Sidebar Single-->
+                  <div class="sidebar-widget service-sidebar-single">
+                    <div class="sidebar-service-list">
+                      <ul>
+                        <li><a href="utility-scale-solar.php"><i class="fas fa-angle-right"></i><span>Utility Scale Solar</span></a></li>
+                        <li class="current"><a href="utility-scale-wind.php"><i class="fas fa-angle-right"></i><span>Utility Scale Wind</span></a></li>
+                        <li><a href="hybrid-power-plant.php"><i class="fas fa-angle-right"></i><span>Hybrid Power Plant</span></a></li>
+                        <li><a href="power-transmission.php"><i class="fas fa-angle-right"></i><span>Power Transmission</span></a></li>
+                        <li><a href="power-distribution.php"><i class="fas fa-angle-right"></i><span>Power Distribution</span></a></li>
+                        <li><a href="underground-cable-work.php"><i class="fas fa-angle-right"></i><span>Underground Cable Work</span></a></li>
+                        <li><a href="electrical-substations.php"><i class="fas fa-angle-right"></i><span>Electrical Substations</span></a></li>
+                        <li><a href="operations-maintenance.php"><i class="fas fa-angle-right"></i><span>Operations & Maintenance</span></a></li>
+                      </ul>
+                    </div>
+                    <div class="service-details-help">
+                      <div class="help-shape-1"></div>
+                      <div class="help-shape-2"></div>
+                      <h2 class="help-title">Contact with <br /> us for any <br /> info</h2>
+                      <div class="help-icon"><span class=" lnr-icon-phone-handset"></span></div>
+                      <div class="help-contact">
+                        <p>Need help? Talk to an expert</p>
+                        <a href="mailto:info@gridwaveenergy.com">info@gridwaveenergy.com</a>
+                      </div>
+                    </div>
+                    <!--Start Services Details Sidebar Single-->
+                    <div class="sidebar-widget service-sidebar-single mt-4">
+                      <div class="service-sidebar-single-btn wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1200m">
+                        <a href="upload/GRIDWAVE COMPANY PROFILE-2026.pdf" target="_blank" class="theme-btn btn-style-one d-grid"><span class="btn-title"><span class="fas fa-file-pdf"></span> Company Profile</span></a>
+                      </div>
+                    </div>
+                  </div>
+                  <!--End Services Details Sidebar-->
+                </div>
+              </div>
+              <!--Start Services Details Content-->
+              <div class="col-xl-8 col-lg-8">
+                <div class="services-details__content">
+                  <img class="w-100" src="images/resource/service-details.jpg" alt="Utility Scale Wind Energy Farm" />
+                  <h3 class="mt-4 mb-2">Utility Scale Wind Solutions</h3>
+                  <p><strong>GridWave Energy</strong> is a premier provider of Engineering, Procurement, and Construction (EPC) solutions for utility-scale wind farms. We manage the entire wind energy project lifecycle, from comprehensive wind resource assessment and micrositing to turbine procurement, robust foundation construction, and seamless grid integration.</p>
+                  <p>Our solutions are engineered to harness maximum wind energy efficiently. By partnering with leading global turbine manufacturers and leveraging cutting-edge construction methodologies, we deliver wind projects that are optimized for high capacity factors, structural longevity, and maximum financial returns.</p>
+                  <div class="content mt-40">
+                    <div class="text">
+                      <h3 class="mb-2">Why Choose GridWave for Wind Energy?</h3>
+                      <p>Building high-capacity wind farms requires extreme precision in logistics, heavy civil engineering, and electrical integration. Our teams are highly experienced in navigating complex terrains and executing challenging heavy lifts with zero compromises on safety.</p>
+                      <blockquote class="blockquote-one">"Harnessing the power of the wind with precision-engineered infrastructure, driving the transition towards a sustainable and cleaner future."</blockquote>
+                    </div>
+                    <div class="feature-list mt-4">
+                      <div class="row clearfix">
+                        <div class="col-lg-6 col-md-6 col-sm-12 column mb-4 mb-md-0">
+                          <img class="mb-3" src="images/resource/service-d1.jpg" alt="Wind Micrositing" />
+                          <p><strong>Precision Micrositing:</strong> We use advanced aerodynamic modeling to position turbines exactly where they will capture the maximum wind flow while minimizing wake losses.</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 column">
+                          <img class="mb-3" src="images/resource/service-d2.jpg" alt="Wind Foundation Construction" />
+                          <p><strong>Robust Foundations:</strong> Our specialized civil engineers design and construct deep and shallow foundations tailored to specific geotechnical conditions, ensuring decades of stability.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class=" mt-25">
+                    <h3 class="mb-2">Frequently Asked Questions</h3>
+                    <p>Find answers to common questions regarding our utility-scale wind EPC services below.</p>
+                    <div class="how-it-faq-1 m-0 mw-100">
+                      <ul class="accordion-box mt-25">
+                        <!--Block-->
+                        <li class="accordion block active-block wow fadeInUp">
+                          <div class="acc-btn active">
+                            <h4 class="title"><span class="number">01</span> What does your Wind EPC service include?</h4>
+                            <div class="icon fa-regular fa-plus"></div>
+                          </div>
+                          <div class="acc-content current">
+                            <div class="content">
+                              <div class="text">Our turnkey EPC development covers site assessment, geotechnical surveys, road and crane pad construction, turbine erection, electrical cabling, and final commissioning.</div>
+                            </div>
+                          </div>
+                        </li>
+                        <!--Block-->
+                        <li class="accordion block wow fadeInUp" data-wow-delay=".2s">
+                          <div class="acc-btn">
+                            <h4 class="title"><span class="number">02</span> How do you select turbines for a project?</h4>
+                            <div class="icon fa-regular fa-plus"></div>
+                          </div>
+                          <div class="acc-content">
+                            <div class="content">
+                              <div class="text">We remain technology-agnostic and partner with Tier-1 turbine manufacturers to select the exact turbine class and rotor diameter that perfectly matches your site's specific wind profile.</div>
+                            </div>
+                          </div>
+                        </li>
+                        <!--Block-->
+                        <li class="accordion block wow fadeInUp" data-wow-delay=".4s">
+                          <div class="acc-btn">
+                            <h4 class="title"><span class="number">03</span> What is the typical timeline for a wind project?</h4><div class="icon fa-regular fa-plus"></div>
+                          </div>
+                          <div class="acc-content">
+                            <div class="content">
+                              <div class="text">Project timelines usually range from 9 to 18 months, depending heavily on the project scale, supply chain logistics, and the complexity of the terrain.</div>
+                            </div>
+                          </div>
+                        </li>
+                        <!--Block-->
+                        <li class="accordion block wow fadeInUp" data-wow-delay=".6s">
+                          <div class="acc-btn">
+                            <h4 class="title"><span class="number">04</span> Do you handle ongoing Operations & Maintenance?</h4><div class="icon fa-regular fa-plus"></div>
+                          </div>
+                          <div class="acc-content">
+                            <div class="content">
+                              <div class="text">Yes, we provide full lifecycle O&M services, including regular mechanical inspections, gearbox oil changes, blade repairs, and 24/7 SCADA monitoring to maximize uptime.</div>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!--End Services Details Content-->
+            </div>
+          </div>
+        </section>
+        <!--End Services Details-->
+
+        <!-- Footer Section Start -->
+<?php include 'include/footer.php'; ?>
