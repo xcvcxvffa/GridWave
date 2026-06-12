@@ -19,7 +19,7 @@
                       <div class="footer-content">
                         <div class="text">There are many variations of Lorem Ipsum available,There are many variations
                         </div>
-                        <ul class="social-icon-list1 mb-4">
+                        <ul class="social-icon-list1 mb-4 d-flex gap-3 list-unstyled">
                           <li>
                             <a href="https://www.linkedin.com/company/gridwave-energy-pvt-ltd/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                           </li>
@@ -59,11 +59,14 @@
                         <h4 class="title">Services</h4>
                       </div>
                       <ul class="user-links">
-                        <li><a href="#">Electrical Repairs</a></li>
-                        <li><a href="#">Wiring & Rewiring</a></li>
-                        <li><a href="#">Lighting Installation</a></li>
-                        <li><a href="#">Smart Home Setup</a></li>
-                        <li><a href="#">Generator Installation</a></li>
+                        <li><a href="utility-scale-solar.php">Utility Scale Solar</a></li>
+                        <li><a href="utility-scale-wind.php">Utility Scale Wind</a></li>
+                        <li><a href="hybrid-power-plant.php">Hybrid Power Plant</a></li>
+                        <li><a href="power-transmission.php">Power Transmission</a></li>
+                        <li><a href="power-distribution.php">Power Distribution</a></li>
+                        <li><a href="underground-cable-work.php">Underground Cable Work</a></li>
+                        <li><a href="electrical-substations.php">Electrical Substations</a></li>
+                        <li><a href="operations-maintenance.php">Operations & Maintenance</a></li>
                       </ul>
                     </div>
                   </div>

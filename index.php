@@ -9,11 +9,11 @@
 
           <div class="banner-image fix">
             <img data-speed=".8" src="images/background/Powering the Future with Sustainable Energy Solutions.webp" alt="">
-            <div class="hero-form" style="padding: 50px; max-width: 700px; bottom: 50px; left: 50px; right: auto; display: flex; flex-direction: column; justify-content: center; border-radius: 30px; box-shadow: 0 15px 50px rgba(0,0,0,0.1); background: #fff;">
-              <h1 class="title char-animation mb-0" style="font-size: 44px; line-height: 1.3; color: var(--theme-color2); font-weight: 500; margin: 0;">
+            <div class="hero-form custom-hero-form">
+              <h1 class="title char-animation mb-0">
                 Powering the Future with Sustainable Energy Solutions
               </h1>
-              <p style="font-size: 18px; color: #555; line-height: 1.6; margin-top: 15px; font-weight: 400;">
+              <p class="desc">
                 GridWave Energy delivers world-class EPC services for utility-scale solar, wind, hybrid power plants, and transmission infrastructure across India.
               </p>
             </div>
