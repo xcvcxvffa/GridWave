@@ -65,7 +65,7 @@
                   <!-- EEAT: Experience & Trustworthiness (Project Spotlight) -->
                   <div class="project-spotlight mt-5 mb-5 p-0 rounded-4 wow fadeInUp" data-wow-delay=".3s">
                     <div class="row align-items-center gx-5">
-                      <div class="col-lg-5 mb-4 mb-lg-0">
+                      <div class="col-lg-5 mb-4 mb-lg-0 fix" style="border-radius: 20px;">
                         <img data-speed=".8" src="images/services/solar/spotlight.png" alt="GridWave Solar Engineers on Site" class="img-fluid w-100" style="object-fit: cover; border-radius: 20px;" />
                       </div>
                       <div class="col-lg-7">
@@ -170,7 +170,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="col-lg-6">
+                      <div class="col-lg-6 fix" style="border-radius: 20px;">
                         <img data-speed=".8" src="images/services/solar/tech_stack.png" alt="Advanced Solar Tech Stack" class="img-fluid w-100" style="border-radius: 20px;" />
                       </div>
                     </div>
